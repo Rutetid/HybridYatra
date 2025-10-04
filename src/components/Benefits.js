@@ -47,7 +47,7 @@ export default function Benefits() {
       color: "purple",
     },
     {
-      title: "Patna's First Hybrid Garage",
+      title: "Patna&apos;s First Hybrid Garage",
       description:
         "We are pioneers in hybrid conversion technology in Bihar. Trusted by hundreds of satisfied customers.",
       icon: (
@@ -108,8 +108,8 @@ export default function Benefits() {
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Experience the perfect blend of traditional petrol power and modern
-            electric efficiency. Here's why thousands of Patna residents trust
-            us for their hybrid conversion.
+            electric efficiency. Here&apos;s why thousands of Patna residents
+            trust us for their hybrid conversion.
           </p>
         </div>
 

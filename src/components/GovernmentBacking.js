@@ -22,10 +22,10 @@ export default function GovernmentBacking() {
           </h2>
 
           <p className="text-xl text-blue-100 mb-8 max-w-3xl mx-auto leading-relaxed">
-            We are officially recognized and funded by the Government of Bihar's
-            Startup Bihar initiative. This backing ensures the highest standards
-            of quality, safety, and reliability in our hybrid conversion
-            services.
+            We are officially recognized and funded by the Government of
+            Bihar&apos;s Startup Bihar initiative. This backing ensures the
+            highest standards of quality, safety, and reliability in our hybrid
+            conversion services.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-12">

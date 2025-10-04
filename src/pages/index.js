@@ -10,8 +10,8 @@ export default function Home() {
     <>
       <Head>
         <title>
-          Hybrid Yatra - Convert Your Petrol Vehicle to Hybrid | Patna's First
-          Green Tech Startup
+          Hybrid Yatra - Convert Your Petrol Vehicle to Hybrid | Patna&apos;s
+          First Green Tech Startup
         </title>
         <meta
           name="description"

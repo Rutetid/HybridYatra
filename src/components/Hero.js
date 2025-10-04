@@ -31,8 +31,8 @@ export default function Hero() {
 
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
               Save money, save the environment! Convert your two-wheeler to
-              hybrid with government-backed technology. Patna's first and only
-              certified hybrid conversion garage.
+              hybrid with government-backed technology. Patna&apos;s first and
+              only certified hybrid conversion garage.
             </p>
 
             <div className="space-y-4 mb-8">
